@@ -1,5 +1,5 @@
 
-set -gx TTC_REPOS '/home/steve/bb/Projects/classes/cs451-checkers'
+set -gx TTC_REPOS '/home/steve/bb/Projects/classes/cs451-checkers,/home/steve/bb/Projects/Dev/'
 set -gx TTC_WEATHER 'Philadelphia'
 set -gx TTC_CELSIUS false 
 set -gx TTC_APIKEYS true
@@ -9,4 +9,4 @@ set -gx TTC_ACCESS_TOKEN '542684397-MeszpPOeNRXPYRcgjR2i67mvRtsfWsnOp7Pn3XJV'
 set -gx TTC_ACCESS_TOKEN_SECRET 'nDkYfgcobj84vhGSZZOgd9L2f04DegTH5PFC6ZgEywkcP'
 set -gx TTC_GITBOT 'gitlog'
 set -gx TTC_SAY_BOX llama 
-
+set -gx TTC_REPOS_DEPTH 2
